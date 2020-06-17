@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Code\personal\IsItUpOrDown" t="IncludeFlat">
+      <e p="IsItUpOrDown" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Check.cs" t="Include" />
+        <e p="EmailNotification.cs" t="Include" />
+        <e p="IsItUpOrDown.csproj" t="IncludeRecursive" />
+        <e p="NotificationHandler.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="IsItUpOrDown.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Service.cs" t="Include" />
+        <e p="WebsiteError.cs" t="Include" />
+      </e>
+      <e p="IsItUpOrDown.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_IsItUpOrDown.-1596663900.00" t="ExcludeRecursive" />
+  </component>
+</project>
