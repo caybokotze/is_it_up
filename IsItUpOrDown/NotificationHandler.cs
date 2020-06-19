@@ -20,7 +20,7 @@ namespace IsItUpOrDown
         public static void Send(WebsiteError error)
         {
             var registerNotification = new NotificationHandler();
-            var emailNotification = new EmailNotification(error);
+            var emailNotification = new TelegramNotification(error);
             registerNotification.RegisterNotificationDelegateInstance += emailNotification.OnNotificationSent;
             registerNotification.RegisterNotificationHandler();
         }

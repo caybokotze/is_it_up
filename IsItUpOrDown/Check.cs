@@ -1,6 +1,6 @@
 ﻿namespace IsItUpOrDown
 {
-    class Check
+    public class Check
     {
         public string Url { get; set; }
         public string Name { get; set; }

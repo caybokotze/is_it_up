@@ -3,9 +3,13 @@
   <component name="ContentModelStore">
     <e p="C:\Code\personal\IsItUpOrDown" t="IncludeFlat">
       <e p="IsItUpOrDown" t="IncludeRecursive">
+        <e p="AppContext.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Bot.cs" t="Include" />
         <e p="Check.cs" t="Include" />
-        <e p="EmailNotification.cs" t="Include" />
+        <e p="DataAccess.cs" t="Include" />
+        <e p="DbSeeder.cs" t="Include" />
+        <e p="Helper.cs" t="Include" />
         <e p="IsItUpOrDown.csproj" t="IncludeRecursive" />
         <e p="NotificationHandler.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -17,6 +21,8 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Service.cs" t="Include" />
+        <e p="TelegramNotification.cs" t="Include" />
+        <e p="WebsiteChecker.cs" t="Include" />
         <e p="WebsiteError.cs" t="Include" />
       </e>
       <e p="IsItUpOrDown.sln" t="IncludeFlat" />
